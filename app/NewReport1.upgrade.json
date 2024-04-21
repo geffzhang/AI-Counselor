@@ -1,0 +1,95 @@
+{
+  "settings": {
+    "components": {
+      "code": true,
+      "binaries": true
+    },
+    "targetId": "",
+    "targetDisplayName": ".NET 8.0"
+  },
+  "analysisStartTime": "2024-04-21T07:28:01.611867Z",
+  "analysisEndTime": "2024-04-21T07:28:02.7061206Z",
+  "stats": {
+    "summary": {
+      "projects": 9,
+      "issues": 0,
+      "incidents": 0,
+      "effort": 0
+    },
+    "charts": {
+      "severity": {
+        "Mandatory": 0,
+        "Optional": 0,
+        "Potential": 0,
+        "Information": 0
+      },
+      "category": {}
+    }
+  },
+  "projects": [
+    {
+      "path": "E:\\GitHub\\AI-Counselor\\app\\AI.Counselor.AppHost\\AI.Counselor.AppHost.csproj",
+      "startingProject": true,
+      "issues": 0,
+      "storyPoints": 0,
+      "ruleInstances": []
+    },
+    {
+      "path": "E:\\GitHub\\AI-Counselor\\app\\AI.Counselor.CounselorService\\AI.Counselor.CounselorService.csproj",
+      "startingProject": true,
+      "issues": 0,
+      "storyPoints": 0,
+      "ruleInstances": []
+    },
+    {
+      "path": "E:\\GitHub\\AI-Counselor\\app\\AI.Counselor.IngestionService\\AI.Counselor.IngestionService.csproj",
+      "startingProject": true,
+      "issues": 0,
+      "storyPoints": 0,
+      "ruleInstances": []
+    },
+    {
+      "path": "E:\\GitHub\\AI-Counselor\\app\\AI.Counselor.NotificationService\\AI.Counselor.NotificationService.csproj",
+      "startingProject": true,
+      "issues": 0,
+      "storyPoints": 0,
+      "ruleInstances": []
+    },
+    {
+      "path": "E:\\GitHub\\AI-Counselor\\app\\AI.Counselor.ServiceDefaults\\AI.Counselor.ServiceDefaults.csproj",
+      "startingProject": true,
+      "issues": 0,
+      "storyPoints": 0,
+      "ruleInstances": []
+    },
+    {
+      "path": "E:\\GitHub\\AI-Counselor\\app\\AI.Counselor.Shared\\AI.Counselor.Shared.csproj",
+      "startingProject": true,
+      "issues": 0,
+      "storyPoints": 0,
+      "ruleInstances": []
+    },
+    {
+      "path": "E:\\GitHub\\AI-Counselor\\app\\AICounsellorFrontend\\AICounsellorFrontend.csproj",
+      "startingProject": true,
+      "issues": 0,
+      "storyPoints": 0,
+      "ruleInstances": []
+    },
+    {
+      "path": "E:\\GitHub\\AI-Counselor\\app\\AICounsellorFrontend.ServiceInterface\\AICounsellorFrontend.ServiceInterface.csproj",
+      "startingProject": true,
+      "issues": 0,
+      "storyPoints": 0,
+      "ruleInstances": []
+    },
+    {
+      "path": "E:\\GitHub\\AI-Counselor\\app\\AICounsellorFrontend.ServiceModel\\AICounsellorFrontend.ServiceModel.csproj",
+      "startingProject": true,
+      "issues": 0,
+      "storyPoints": 0,
+      "ruleInstances": []
+    }
+  ],
+  "rules": {}
+}

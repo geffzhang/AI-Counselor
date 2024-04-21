@@ -11,7 +11,7 @@ public class ConfigureAutoQuery : IHostingStartup
         .ConfigureServices(services => {
             // Enable Audit History
             services.AddSingleton<ICrudEvents>(c =>
-                new OrmLiteCrudEvents(c.Resolve<IDbConnectionFactory>()));
+                new OrmLiteCrudEvents(c.GetService<IDbConnectionFactory>()));
         })
         .ConfigureAppHost(appHost => {
 
